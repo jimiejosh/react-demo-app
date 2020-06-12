@@ -12,7 +12,7 @@ const Home = () => {
 
         <div style={{padding: 20}}>
 	        <p className="lead mt-3 text-center">This app is a sample app built to demonstrate the mobile responsive navbar menu as requested, built in reactjs</p>
-	        <p className="lead text-center mb-4">You may find the complete code in the <a href="https://github.com/akhils10/react-menus">Github repo</a> </p>
+	        <p className="lead text-center mb-4">You may find the complete code in the <a href="https://github.com/jimiejosh/react-demo-app">Github repo</a> </p>
     	</div>
         <Menu />
         <div style={{margin: 40}}>

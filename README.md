@@ -2,7 +2,7 @@
 
 
 ```
-[Link to Hosted app](https://reactjs-responsive-menu.netlify.com)
+[Link to Hosted app](https://reactjs-app-food-demo.netlify.com)
 
 ```
 
